@@ -1,5 +1,0 @@
-Make dollar a class and compare total value to a dollar.
-This eliminates the > 1 etc which is not quickly changed.
-
-Don't forget to close scanner.
-
